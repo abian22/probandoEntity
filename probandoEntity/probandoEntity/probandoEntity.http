@@ -1,0 +1,6 @@
+@probandoEntity_HostAddress = http://localhost:5286
+
+GET {{probandoEntity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
